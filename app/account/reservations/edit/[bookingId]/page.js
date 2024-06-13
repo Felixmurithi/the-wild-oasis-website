@@ -1,4 +1,4 @@
-import UpdateReservationForm from "@/app/_components/updateReservationForm";
+import UpdateReservationForm from "@/app/_components/UpdateReservationFormpdateReservationForm";
 import { getBooking, getSettings } from "@/app/_lib/data-service";
 
 export default async function Page({ params }) {
